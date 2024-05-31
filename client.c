@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   client.c                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: daroldan < daroldan@student.42malaga.co    +#+  +:+       +#+        */
+/*   By: daroldan <daroldan@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/02 00:25:32 by daroldan          #+#    #+#             */
-/*   Updated: 2024/05/03 00:19:12 by daroldan         ###   ########.fr       */
+/*   Updated: 2024/05/31 19:57:10 by daroldan         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -52,5 +52,4 @@ int	main(int argc, char **argv)
 		}
 		ft_msg_bit(pid, '\n');
 	}
-
 }
